@@ -1,0 +1,43 @@
+<tacoTown>
+
+	<!-- 
+		Fine tune values.
+		Unsure what alot of these values/scales are, dont go crazy here
+		Recommended to leave alone. Only fine tune if you know what you are doing.
+		Values must be above zero.
+		Suggested values provided JoshwaSx8
+	-->
+
+		<LightIntensity>2.0</LightIntensity>
+		<LightViewDistanceScale>25.0</LightViewDistanceScale>
+		<LightRange>0.75</LightRange>
+		<SunIntensityScale>1.1</SunIntensityScale>
+		<MoonAmbientScale>0.7</MoonAmbientScale>
+		<TileEntityLightRange>150.0</TileEntityLightRange>
+
+
+		<!-- 
+			Vanilla values:
+				LightIntensity:			0.75
+				LightViewDistanceScale:	1.5
+				LightRange:				0.5
+				SunIntensityScale:		1.5
+				MoonAmbientScale:		1
+				TileEntityLightRange:	10
+				
+		-->
+
+		<!-- 
+			JoshwaSx8 values:
+				LightIntensity:			2.0
+				LightViewDistanceScale:	25.0
+				LightRange:				0.75
+				SunIntensityScale:		1.1
+				MoonAmbientScale:		0.7
+				TileEntityLightRange:	150
+				
+		-->
+
+
+	<!-- https://i.imgur.com/DQRZpvF.gif -->
+</tacoTown>

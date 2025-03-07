@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Light Range 2 work\\LightRanger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58A1E47B-EBB4-4133-B117-D5DBD721C31D}|LightRanger.csproj|c:\\users\\user\\desktop\\light range 2 work\\lightranger\\lightranger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A1E47B-EBB4-4133-B117-D5DBD721C31D}|LightRanger.csproj|solutionrelative:lightranger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LightRanger.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Light Range 2 work\\LightRanger\\LightRanger.cs",
+              "RelativeDocumentMoniker": "LightRanger.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Light Range 2 work\\LightRanger\\LightRanger.cs",
+              "RelativeToolTip": "LightRanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:38:23.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

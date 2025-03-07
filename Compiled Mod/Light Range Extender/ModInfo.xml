@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="LightRangeExtension" />
+	<DisplayName value="Light Range Extension" />
+	<Version value="1.3.9.1" />
+	<Description value="Extend light sources further. See lightsources from further away" />
+	<Author value="McTaco modlet, orginal idea credit to JoshwaSx8" />
+	<Website value="https://i.imgur.com/DQRZpvF.gif" />
+</xml>
